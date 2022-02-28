@@ -8,4 +8,4 @@
 
 ##### 第 2 课：函数
 
-![](.\images\fa94d733dc32c13a99a2bb41e7752e5.png)
+![](./images/fa94d733dc32c13a99a2bb41e7752e5.png)
