@@ -4,7 +4,7 @@
 
 ##### 第 1 课：Kotlin 基础知识
 
-![](.\images\9746fc23104f55159fcbea3024fdd29.png)
+![](./images/9746fc23104f55159fcbea3024fdd29.png)
 
 ##### 第 2 课：函数
 
