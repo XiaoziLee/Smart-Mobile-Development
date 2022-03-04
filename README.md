@@ -16,4 +16,4 @@
 
 ##### 第 4 课：构建首个 Android 应用
 
-![](C:\Users\62587\Desktop\Smart-Mobile-Development\images\994d853c0f2f09192e417bb55b89964.png)
+![](./images/994d853c0f2f09192e417bb55b89964.png)
